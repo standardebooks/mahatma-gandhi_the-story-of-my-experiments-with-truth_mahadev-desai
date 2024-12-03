@@ -28,49 +28,71 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Story of My Experiments with Truth</dc:title>
 		<meta property="file-as" refines="#title">Story of My Experiments with Truth, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">An Autobiography</dc:title>
+		<meta property="file-as" refines="#subtitle">Autobiography, An</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Story of My Experiments with Truth: An Autobiography</dc:title>
+		<meta property="file-as" refines="#fulltitle">Story of My Experiments with Truth, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">Gandhi, Mahatma, 1869-1948</dc:subject>
+		<dc:subject id="subject-2">Statesmen -- India -- Biography</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">n79041626</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2008111851</meta>
+		<meta property="se:subject">Autobiography</meta>
+		<meta property="se:subject">Memoir</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<meta property="se:subject">Spirituality</meta>
+		<dc:description id="description">Gandhi relates his life experiences from his birth in Gujurat in 1869 through the Indian National Congress of 1915.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Story of My Experiments with Truth&lt;/i&gt; is an autobiographical work by &lt;a href="https://standardebooks.org/ebooks/mahatma-gandhi"&gt;M. K. Gandhi&lt;/a&gt;, originally serialized between 1925 and 1929 and published as two volumes in 1927 and 1929. The book chronicles Gandhi’s life from childhood through his early political years, serving as a comprehensive personal narrative that doubles as a philosophical treatise on ethical and social development. Written in Gujarati and subsequently translated into multiple languages, the autobiography provides a detailed account of Gandhi’s personal and intellectual evolution from his birth in 1869 to the mid-1910s. The work is structured as a sequential exploration of Gandhi’s life experiences, with a particular emphasis on his moral and spiritual development, documenting his transformation from a shy, uncertain young man to a prominent political and social reformer.&lt;/p&gt;
+			&lt;p&gt;The text is notable for its unprecedented level of personal introspection, with Gandhi treating his life as a series of ethical “experiments” in understanding truth and human nature. Unlike traditional autobiographies, the work does not merely celebrate achievements but critically examines personal failings, cultural practices, and social norms. Gandhi explores topics including his childhood in colonial India, early marriage, experiences in England and South Africa, and the gradual formation of his philosophical principles of non-violent resistance (satyagraha). The book provides crucial insights into the social and political contexts of British colonial India, offering a firsthand account of the intellectual and moral challenges faced by Indian reformers at the turn of the 20th century.&lt;/p&gt;
+			&lt;p&gt;Scholarly and historical significance of the autobiography extends beyond its personal narrative. The work has been recognized as a foundational text in understanding the philosophical and political development of the Indian independence movement. It offers a unique methodology of personal and social transformation, presenting Gandhi’s life as a continuous process of moral experimentation and self-improvement.&lt;/p&gt;
+			&lt;p&gt;Presented here in this Standard Ebooks edition is the 1940 revised edition.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://archive.org/details/dli.csl.5087</dc:source>
+		<dc:source>https://archive.org/details/HindSwaraj-CWMG-039</dc:source>
+		<meta property="se:production-notes">The source text of this Standard Ebooks edition is the revised edition published in India in 1940. The revised edition shares the original 1927/1929 copyright of the original edition and was cleared by Project Gutenberg Copyright Clearance. This ebook does not include the translator preface that accompanied the revised edition as it is still under copyright. In questions of spelling and typos, the edition presented in the "Collected Works of Mahatma Gandhi" volume 39 was deferred to.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mahatma-gandhi_the-story-of-my-experiments-with-truth_mahadev-desai</meta>
 		<dc:creator id="author">Mahatma Gandhi</dc:creator>
 		<meta property="file-as" refines="#author">Gandhi, Mahatma</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Mohandas Karamchand Gandhi</meta>
+		<meta property="alternate-script" refines="#author">મોહનદાસ કરમચંદ ગાંધી</meta>
+		<meta property="alternate-script" refines="#author">मोहनदास करमचन्द गांधी</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mahatma_Gandhi</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79041626</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Mahadev Desai</dc:contributor>
-		<meta property="file-as" refines="#translator">Desai, Mahadev</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Mahadev_Desai</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/n82148966</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-1">Mahadev Desai</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Desai, Mahadev</meta>
+		<meta property="se:name.person.full-name" refines="#translator-1">Mahadev Haribhai Desai</meta>
+		<meta property="alternate-script" refines="#translator-1">મહાદેવ હરિભાઈ દેસાઈ</meta>
+		<meta property="alternate-script" refines="#translator-1">महादेव हरिभाई देसाईं</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Mahadev_Desai</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/n82148966</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-2">Pyarelal Nayar</dc:contributor>
+		<meta property="file-as" refines="#translator-2">Nayar, Pyarelal</meta>
+		<meta property="alternate-script" refines="#translator-2">પ્યારેલાલ નાયર</meta>
+		<meta property="alternate-script" refines="#translator-2">प्यारेलाल नय्यर</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Pyarelal_Nayyar</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n82237664</meta>
+		<meta property="display-seq" refines="#translator-2">0</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Brendan Fattig</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Fattig, Brendan</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://brendanny.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
