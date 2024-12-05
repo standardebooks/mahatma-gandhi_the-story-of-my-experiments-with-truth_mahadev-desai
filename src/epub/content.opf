@@ -87,10 +87,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n82237664</meta>
 		<meta property="display-seq" refines="#translator-2">0</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William Simpson</dc:contributor>
+		<meta property="file-as" refines="#artist">Simpson, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Simpson_(Scottish_artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">n86023833</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">Brendan Fattig</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Fattig, Brendan</meta>
