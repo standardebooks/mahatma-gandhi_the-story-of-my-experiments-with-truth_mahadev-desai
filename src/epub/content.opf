@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,17 +48,16 @@
 		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Story of My Experiments with Truth&lt;/i&gt; is an autobiographical work by &lt;a href="https://standardebooks.org/ebooks/mahatma-gandhi"&gt;M. K. Gandhi&lt;/a&gt;, originally serialized between 1925 and 1929 and published as two volumes in 1927 and 1929. The book chronicles Gandhi’s life from childhood through his early political years, serving as a comprehensive personal narrative that doubles as a philosophical treatise on ethical and social development. Written in Gujarati and subsequently translated into multiple languages, the autobiography provides a detailed account of Gandhi’s personal and intellectual evolution from his birth in 1869 to the mid-1910s. The work is structured as a sequential exploration of Gandhi’s life experiences, with a particular emphasis on his moral and spiritual development, documenting his transformation from a shy, uncertain young man to a prominent political and social reformer.&lt;/p&gt;
-			&lt;p&gt;The text is notable for its unprecedented level of personal introspection, with Gandhi treating his life as a series of ethical “experiments” in understanding truth and human nature. Unlike traditional autobiographies, the work does not merely celebrate achievements but critically examines personal failings, cultural practices, and social norms. Gandhi explores topics including his childhood in colonial India, early marriage, experiences in England and South Africa, and the gradual formation of his philosophical principles of non-violent resistance (satyagraha). The book provides crucial insights into the social and political contexts of British colonial India, offering a firsthand account of the intellectual and moral challenges faced by Indian reformers at the turn of the 20th century.&lt;/p&gt;
-			&lt;p&gt;Scholarly and historical significance of the autobiography extends beyond its personal narrative. The work has been recognized as a foundational text in understanding the philosophical and political development of the Indian independence movement. It offers a unique methodology of personal and social transformation, presenting Gandhi’s life as a continuous process of moral experimentation and self-improvement.&lt;/p&gt;
-			&lt;p&gt;Presented here in this Standard Ebooks edition is the 1940 revised edition.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Story of My Experiments with Truth&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/mahatma-gandhi"&gt;Gandhi&lt;/a&gt; relates his life story through a series of personal reflections, described by Gandhi as his “experiments with Truth.” The autobiography provides a look at his moral and spiritual development from his birth in Gujarat in 1869 through the beginnings of his practice of “satyagraha” (nonviolent resistance) in India in the early 1900s. It explores foundational periods in his life such as his childhood in Gujarat, his arranged marriage at a young age, his education in England, and the early stages of his professional and political life in South Africa.&lt;/p&gt;
+			&lt;p&gt;At a time when most notable literary works in India were composed in English, Gandhi chose to write his autobiography in Gujarati, his native language. And as noted in his introduction, the very act of writing an autobiography was considered unconventional in India during that era.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Story of My Experiments with Truth&lt;/i&gt; was originally serialized between 1925 and 1929 and published as two volumes in 1927 and 1929. Presented here in this Standard Ebooks edition is the 1940 revised edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/dli.csl.5087</dc:source>
 		<dc:source>https://archive.org/details/HindSwaraj-CWMG-039</dc:source>
 		<meta property="se:production-notes">The source text of this Standard Ebooks edition is the revised edition published in India in 1940. The revised edition shares the original 1927/1929 copyright of the original edition and was cleared by Project Gutenberg Copyright Clearance. This ebook does not include the translator preface that accompanied the revised edition as it is still under copyright. In questions of spelling and typos, the edition presented in the "Collected Works of Mahatma Gandhi" volume 39 was deferred to.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">173780</meta>
+		<meta property="se:reading-ease.flesch">64.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mahatma-gandhi_the-story-of-my-experiments-with-truth_mahadev-desai</meta>
 		<dc:creator id="author">Mahatma Gandhi</dc:creator>
@@ -101,6 +100,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
