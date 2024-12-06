@@ -42,10 +42,4 @@
 			<reason>Roman numeral should be uppercase.</reason>
 		</ignore>
 	</file>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-057</code>
-			<reason>Endnote should remain lowercase.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
