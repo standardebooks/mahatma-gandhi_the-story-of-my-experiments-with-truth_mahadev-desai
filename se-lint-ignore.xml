@@ -6,40 +6,10 @@
 			<reason>Ending punctuation is part of the titles: "India⁠—What Can It Teach Us?" and "The Gospels in Brief, What to Do?"</reason>
 		</ignore>
 	</file>
-	<file path="chapter-3-8.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Roman numeral should be uppercase.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-3-18.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Roman numeral should be uppercase.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-3-19.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Roman numeral should be uppercase.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-4-16.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Roman numeral should be uppercase.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-5-27.xhtml">
 		<ignore>
 			<code>t-003</code>
 			<reason>Quoted letter spans multiple paragraphs.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-5-32.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Roman numeral should be uppercase.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
