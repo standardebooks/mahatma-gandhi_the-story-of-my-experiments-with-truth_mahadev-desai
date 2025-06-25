@@ -66,7 +66,7 @@
 		<meta property="alternate-script" refines="#author">મોહનદાસ કરમચંદ ગાંધી</meta>
 		<meta property="alternate-script" refines="#author">मोहनदास करमचन्द गांधी</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mahatma_Gandhi</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79041626</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79041626</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator-1">Mahadev Desai</dc:contributor>
@@ -75,7 +75,7 @@
 		<meta property="alternate-script" refines="#translator-1">મહાદેવ હરિભાઈ દેસાઈ</meta>
 		<meta property="alternate-script" refines="#translator-1">महादेव हरिभाई देसाईं</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Mahadev_Desai</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/n82148966</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n82148966</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Pyarelal Nayar</dc:contributor>
