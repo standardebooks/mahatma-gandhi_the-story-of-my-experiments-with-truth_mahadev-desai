@@ -89,7 +89,7 @@
 		<dc:contributor id="artist">William Simpson</dc:contributor>
 		<meta property="file-as" refines="#artist">Simpson, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Simpson_(Scottish_artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">n86023833</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86023833</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">Brendan Fattig</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Fattig, Brendan</meta>
