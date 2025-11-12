@@ -77,8 +77,8 @@
 		<meta property="alternate-script" refines="#translator-1">महादेव हरिभाई देसाईं</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Mahadev_Desai</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n82148966</meta>
-		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Pyarelal Nayar</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Nayar, Pyarelal</meta>
 		<meta property="alternate-script" refines="#translator-2">પ્યારેલાલ નાયર</meta>
