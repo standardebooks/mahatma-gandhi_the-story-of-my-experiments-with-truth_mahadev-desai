@@ -13,8 +13,8 @@
 			text-anchor: middle;
 		}
 
-		.title-xsmall{
-			font-size: 58.47953033px;
+		.title-small{
+			font-size: 70.17543793px;
 		}
 
 		.author{
@@ -23,7 +23,7 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title-xsmall" x="700" y="1775">THE STORY OF</text>
-	<text class="title-xsmall" x="700" y="1845">MY EXPERIMENTS WITH TRUTH</text>
-	<text class="author" x="700" y="1945">MAHATMA GANDHI</text>
+	<text class="title-small" x="700" y="1775">THE STORY OF MY</text>
+	<text class="title-small" x="700" y="1855">EXPERIMENTS WITH TRUTH</text>
+	<text class="author" x="700" y="1955">MAHATMA GANDHI</text>
 </svg>
