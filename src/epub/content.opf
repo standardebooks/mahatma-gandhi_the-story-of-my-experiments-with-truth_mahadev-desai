@@ -57,7 +57,7 @@
 		<dc:source>https://archive.org/details/dli.csl.5087</dc:source>
 		<dc:source>https://archive.org/details/HindSwaraj-CWMG-039</dc:source>
 		<meta property="se:production-notes">The source text of this Standard Ebooks edition is the revised edition published in India in 1940. The revised edition shares the original 1927/1929 copyright of the original edition and was cleared by Project Gutenberg Copyright Clearance. This ebook does not include the translator preface that accompanied the revised edition as it is still under copyright. In questions of spelling and typos, the edition presented in the "Collected Works of Mahatma Gandhi" volume 39 was deferred to.</meta>
-		<meta property="se:word-count">173780</meta>
+		<meta property="se:word-count">173177</meta>
 		<meta property="se:reading-ease.flesch">64.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mahatma-gandhi_the-story-of-my-experiments-with-truth_mahadev-desai</meta>
