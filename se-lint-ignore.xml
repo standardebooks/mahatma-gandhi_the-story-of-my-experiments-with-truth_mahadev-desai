@@ -2,11 +2,14 @@
 <se-lint-ignore>
 	<file path="chapter-2-22.xhtml">
 		<ignore code="t-017">
+			<line>16</line>
+			<line>18</line>
 			<reason>Ending punctuation is part of the titles: "India⁠—What Can It Teach Us?" and "The Gospels in Brief, What to Do?"</reason>
 		</ignore>
 	</file>
 	<file path="chapter-5-27.xhtml">
 		<ignore code="t-003">
+			<line>27</line>
 			<reason>Quoted letter spans multiple paragraphs.</reason>
 		</ignore>
 	</file>
