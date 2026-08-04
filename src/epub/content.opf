@@ -48,7 +48,7 @@
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.</dc:abstract>
+		<meta property="schema:abstract">Gandhi relates his life experiences from his birth in Gujarat in 1869 through the Indian National Congress of 1915.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Story of My Experiments with Truth&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/mahatma-gandhi"&gt;Gandhi&lt;/a&gt; relates his life story through a series of personal reflections, described by Gandhi as his “experiments with Truth.” The autobiography provides a look at his moral and spiritual development from his birth in Gujarat in 1869 through the beginnings of his practice of “satyagraha” (nonviolent resistance) in India in the early 1900s. It explores foundational periods in his life such as his childhood in Gujarat, his arranged marriage at a young age, his education in England, and the early stages of his professional and political life in South Africa.&lt;/p&gt;
 			&lt;p&gt;At a time when most notable literary works in India were composed in English, Gandhi chose to write his autobiography in Gujarati, his native language. And as noted in his introduction, the very act of writing an autobiography was considered unconventional in India during that era.&lt;/p&gt;
